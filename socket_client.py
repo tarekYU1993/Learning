@@ -20,3 +20,4 @@ while True:
 	if not data:
 		break
 	print data
+client_socket.close()
