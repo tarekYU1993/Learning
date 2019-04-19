@@ -4,7 +4,7 @@ from socket import *
 from time import ctime
 
 Host = '10.64.165.39'
-Port = 7900
+Port = 7800
 Buffsize = 1024
 Addr = (Host,Port)
 
